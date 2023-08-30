@@ -20,6 +20,40 @@
         "value": "app.probc.android.apps.youtube.music"
       }
     ]
+  },
+  {
+    "patchName": "Custom branding YouTube name",
+    "options": [
+      {
+        "key": "YouTubeAppName",
+        "value": "Youtube ProBC"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "YouTubePackageName",
+        "value": "app.probc.android.youtube"
+      },
+      {
+        "key": "MusicPackageName",
+        "value": "app.probc.android.apps.youtube.music"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding Music name",
+    "options": [
+      {
+        "key": "MusicLongName",
+        "value": "YouTube Music ProBC"
+      },
+      {
+        "key": "MusicShortName",
+        "value": "YT Music ProBC"
+      }
+    ]
   }
 ]
-    

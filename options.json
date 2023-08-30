@@ -13,11 +13,11 @@
     "options": [
       {
         "key": "YouTubePackageName",
-        "value": "YouTube ProBC"
+        "value": "app.probc.android.youtube"
       },
       {
         "key": "MusicPackageName",
-        "value": "YouTube Music ProBC"
+        "value": "app.probc.android.apps.youtube.music"
       }
     ]
   }

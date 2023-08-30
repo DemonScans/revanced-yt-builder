@@ -1,0 +1,39 @@
+          
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "YouTube ProBC"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "YouTubePackageName",
+        "value": "YouTube ProBC"
+      },
+      {
+        "key": "MusicPackageName",
+        "value": "YouTube Music ProBC"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "YouTubePackageName",
+        "value": "YouTube ProBC"
+      },
+      {
+        "key": "MusicPackageName",
+        "value": "YouTube Music ProBC"
+      }
+    ]
+  }
+]
+    

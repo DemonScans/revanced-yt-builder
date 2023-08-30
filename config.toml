@@ -1,4 +1,4 @@
-[YouTube-Extended]
+[YouTube]
 app-name = "YouTube"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
@@ -7,7 +7,7 @@ rv-brand = "ProBC"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
-[Music-Extended]
+[Music]
 app-name = "Music"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"

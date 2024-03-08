@@ -22,7 +22,7 @@
     ]
   },
   {
-    "patchName": "Custom branding YouTube name",
+    "patchName": "Custom branding name YouTube",
     "options": [
       {
         "key": "YouTubeAppName",
